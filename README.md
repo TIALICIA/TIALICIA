@@ -4,8 +4,6 @@
 
 ### Desenvolvedora de Software em Formação • DSM Fatec Jacareí
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Estudante+de+Desenvolvimento+de+Software+Multiplataforma;Apaixonada+por+Tecnologia+e+Inovação;Em+constante+evolução+e+aprendizado;Transformando+ideias+em+soluções" alt="Typing SVG" />
-
 </div>
 
 ---
